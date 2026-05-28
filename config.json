@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcecrypt",
+        "uuid": 35461923,
+        "checksum": "tu000r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
